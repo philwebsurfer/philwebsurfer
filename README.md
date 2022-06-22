@@ -2,7 +2,7 @@
 
 You may visit the projects I'm working on (and are public) on <https://github.com/philwebsurfer/>
 
-## Deep Learning Research Paper
+## [Deep Learning Research Paper](https://philwebsurfer.github.io/dlfinal/)
 
 I'm working as of 2022 working on a Artificial Neural Network research (Deep Learning) to forecast the Indoor Air Polution. You may find it [here](https://philwebsurfer.github.io/dlfinal/).
 
